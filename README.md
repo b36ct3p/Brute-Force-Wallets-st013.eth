@@ -5,21 +5,27 @@ Attention!!! The script st013.eth and the bot st013_coin_bot are intended solely
 Brute Force Wallets: st013.eth
 Unlock the potential of Ethereum wallets with our advanced key matching and recovery solution. st013.eth, developed by b36ct3p, offers a secure and efficient method for selecting and recovering keys from Ethereum wallets. Leveraging cutting-edge technology, our service provides fast and reliable access to digital assets. Stay ahead with the best key matching and data recovery tool for Ethereum wallets.
 
-st013.eth - Run Command
+st013.eth - Run Command:
+
   python3 run.py -f 'address.txt' -v 'qty addresses' -n 'power <= 32'
 
-Example Command
+Example Command:
+
   python3 run.py -f 100000_rich_eth.txt -v 100000 -n 8
 
 Installation Instructions
+
 For Windows:
+
   pip install bip_utils
   pip install rich
 
 For Linux:
+
   pip3 install rich bip_utils
 
 st013.eth - Ethereum Hunting and Cracking Private Key From Mnemonic
+
   -h, --help    Show this help message and exit
   -f, --file    Ethereum rich address file with .txt format
   Example: -f eth.txt or --file eth.txt
