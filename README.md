@@ -69,6 +69,6 @@ After payment, send the transaction ID (TXID) and notify at qTox to receive the 
 
 see > https://t.me/st013_coin_bot
 
-Good Hunting Man
+Good Hunting Man!
 
 
