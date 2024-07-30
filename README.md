@@ -24,6 +24,8 @@ After purchase:
 
 For all questions - TOXIC contact
 
+![Guide Image](https://i.ibb.co/FgTNMcK/guide-image.png)
+
 st013.eth - Run Command:
 
   python3 run.py -f 'address.txt' -v 'qty addresses' -n 'power <= 32'
