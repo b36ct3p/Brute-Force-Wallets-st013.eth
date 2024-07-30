@@ -1,4 +1,4 @@
-     *** Disclaimer ***
+           *** Disclaimer ***
 
 The script st013.eth and the bot st013_coin_bot are intended solely for educational, instructional, and informational purposes. Any other use, such as theft of funds, personal enrichment, etc., is the sole responsibility of the user. The user assumes full responsibility for any misuse of the script or bot.
 
