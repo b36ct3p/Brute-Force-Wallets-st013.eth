@@ -71,4 +71,5 @@ see > https://t.me/st013_coin_bot
 
 Good Hunting Man!
 
+<a href="https://ibb.co/YpRgB4P"><img src="https://i.ibb.co/V2j6Y0J/photo-7-2024-06-11-11-05-12.jpg" alt="photo-7-2024-06-11-11-05-12" border="0"></a>
 
