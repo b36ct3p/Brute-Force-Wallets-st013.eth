@@ -24,7 +24,7 @@ After purchase:
 
 - Volume: a complete package to run
 
-For all questions - TOXIC contact
+For all questions - TOXIC contact (see > https://t.me/st013_coin_bot)
 
 <a href="https://ibb.co/pnmZ9Sm"><img src="https://i.ibb.co/6Ndbfkd/photo-2024-06-11-16-22-34.jpg" alt="photo-2024-06-11-16-22-34" border="0"></a>
 
