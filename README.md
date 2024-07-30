@@ -43,12 +43,3 @@ Good Hunting Man.
 ### Payment Image
 ![Payment Image](https://i.ibb.co/HNNh99y/payment-image.png)
 
-## Payment
-
-The price is 50 USDT. To proceed with the purchase, please send 50 USDT to the following address:
-
-UQAvLhq6nPiviuCyQ1smj_e5y-DQv_rMsqjQ02s0_84j36L_
-
-https://t.me/st013_coin_bot
-
-after payment, to receive the download link, write to qTox at: 0007C91AFE9A39D5FED1032A4E567E3413B4AD381FA73CE61AD40C437805112BA1E0FB087B57
