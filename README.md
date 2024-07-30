@@ -15,7 +15,7 @@ After purchase:
 - First of all, read carefully and follow the instructions readme.txt
 
 - Type: ready-to-use Python script
-- 
+
 - Volume: a complete package to run
 
 For all questions - TOXIC contact
