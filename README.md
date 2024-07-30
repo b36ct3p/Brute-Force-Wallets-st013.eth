@@ -1,6 +1,6 @@
                                                       *** Disclaimer ***
                                                       
-![Present Image](https://ibb.co/mNVRHwW/payment-image.png)
+![Present Image](https://ibb.co/mNVRHwW/present-image.png)
 
 Attention!!! 
 
