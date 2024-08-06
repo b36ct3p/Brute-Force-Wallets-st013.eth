@@ -63,7 +63,7 @@ The price is 50 USDT. To proceed with the purchase, please send 50 USDT to the f
 
 here > https://t.me/st013_coin_bot
 
-After payment, send the transaction ID (TXID) and notify at qTox to receive the download link:
+After payment, send the transaction ID (TXID) and notify to receive the download link:
 
 see > https://t.me/st013_coin_bot
 
