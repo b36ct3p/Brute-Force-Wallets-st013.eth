@@ -22,7 +22,7 @@ After purchase:
 
 - Volume: a complete package to run
 
-For all questions - TOXIC contact (see > https://t.me/st013_coin_bot)
+For all questions - contact see > [st013_coin_bot](https://t.me/st013_coin_bot)
 
 <a href="https://ibb.co/pnmZ9Sm"><img src="https://i.ibb.co/6Ndbfkd/photo-2024-06-11-16-22-34.jpg" alt="photo-2024-06-11-16-22-34" border="0"></a>
 
@@ -61,11 +61,11 @@ For top accounts by ETH balance, visit: [Etherscan Accounts](https://etherscan.i
 
 The price is 50 USDT. To proceed with the purchase, please send 50 USDT to the following address:
 
-here > https://t.me/st013_coin_bot
+here > [st013_coin_bot](https://t.me/st013_coin_bot)
 
 After payment, send the transaction ID (TXID) and notify to receive the download link:
 
-see > https://t.me/st013_coin_bot
+see > [st013_coin_bot](https://t.me/st013_coin_bot)
 
 Good Hunting Man!
 
