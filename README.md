@@ -1,6 +1,6 @@
 *** Disclaimer ***
 
-The script st013.eth and the bot st013_coin_bot are intended solely for educational, instructional, and informational purposes. Any other use, such as theft of funds, personal enrichment, etc., is the sole responsibility of the user. The user assumes full responsibility for any misuse of the script or bot.
+The script st013.eth and the bot [st013_coin_bot](https://t.me/st013_coin_bot) are intended solely for educational, instructional, and informational purposes. Any other use, such as theft of funds, personal enrichment, etc., is the sole responsibility of the user. The user assumes full responsibility for any misuse of the script or bot.
 
 <a href="https://ibb.co/mNVRHwW"><img src="https://i.ibb.co/CP3wnZG/photo-3-2024-06-11-11-05-12.jpg" alt="photo-3-2024-06-11-11-05-12" border="0"></a>
 
