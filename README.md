@@ -59,14 +59,6 @@ st013.eth - Ethereum Hunting and Cracking Private Key From Mnemonic
 
 For top accounts by ETH balance, visit: [Etherscan Accounts](https://etherscan.io/accounts)
 
-The price is 50 USDT. To proceed with the purchase, please send 50 USDT to the following address:
-
-here > [st013_coin_bot](https://t.me/st013_coin_bot)
-
-After payment, send the transaction ID (TXID) and notify to receive the download link:
-
-see > [st013_coin_bot](https://t.me/st013_coin_bot)
-
 Good Hunting Man!
 
 <a href="https://ibb.co/YpRgB4P"><img src="https://i.ibb.co/V2j6Y0J/photo-7-2024-06-11-11-05-12.jpg" alt="photo-7-2024-06-11-11-05-12" border="0"></a>
